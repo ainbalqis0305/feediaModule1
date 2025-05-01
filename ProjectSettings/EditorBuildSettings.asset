@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LandingPage.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/InsertName.unity
+    guid: e58bee8e572d65645be106e9a09a344b
+  - enabled: 1
+    path: Assets/Scenes/Dashboard.unity
+    guid: d3a42ef749228f144a3f5d148ffb6609
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1/scene1.unity
+    guid: 5ef2dcff99ab26040a25651fb8642836
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1/level1game.unity
+    guid: 7f504f4d56237e840802db68012fa0e8
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1/level1feedback.unity
+    guid: c75848cc4b26d89498e5224d33a574e0
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1/match3game.unity
+    guid: 0e464a14535c59949b262a12468d1eee
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1/powerups.unity
+    guid: c4f7c75d86a5a2e4bbb55979a184593d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1/paddyfield.unity
+    guid: 3eb2289f178ddc643adb2bf723488cc0
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1/level1badge.unity
+    guid: 7a381e5b08a6ea64b8cbdb5120441f74
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1/level1result.unity
+    guid: 124eda5566855b64090d4580a27449ea
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2/Level2Scene1.unity
+    guid: 62de543c06fa8dc4b83c60b5cd1ea603
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2/Level2game1.unity
+    guid: 996520b74eb922940a05be048a0b960a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2/Level2feedback.unity
+    guid: c2dd3cecff8c00d48b7e5f1f1356cb9f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2/level2badge1.unity
+    guid: 4bc48fc86e21eaa4d9017bafe19923b7
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2/Level2Scene2.unity
+    guid: 010c131143323fe468e1477fd86c4964
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2/Level2game2.unity
+    guid: ac162cff649d8c342a88deb2a0c8d4aa
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2/level2badge2.unity
+    guid: 67aa1c85ad68ea04ca2eeb1b7d8e7188
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2/Level2Scene3.unity
+    guid: c781802cea2161b43b9793004595d4f2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2/Level2game3.unity
+    guid: 498c5a404d670f84ea08f7dc6d5a73dc
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2/level2badge3.unity
+    guid: a8825f402bed2ff4a9d8bea799decd9e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2/level2badge4.unity
+    guid: 0e97d71e58b65cd46a620c14edf6b59f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2/level2result.unity
+    guid: ba215d56d4dd32a49af66295b7cad1fc
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 615eec0877c69b842868a8b90aee520b, type: 2}
